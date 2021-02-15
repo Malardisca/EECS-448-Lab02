@@ -1,0 +1,29 @@
+y079m707@E3002-14:~/eecs448/eecs.448/eecs448-lab02$ git log
+commit 5a3d5d0d0f6878833fb8ee36055f82bbfdc275f8 (HEAD -> main, origin/main)
+Author: Yaoqian Mai <maiyaoqian2018@ku.edu>
+Date:   Sun Feb 14 18:15:39 2021 -0600
+
+    This is homework submition for EECS 488 Lab02 Linklist correction.
+
+commit e2c0050ecb72620eb4e73bd8881da0c315488f86 (origin/master, origin/HEAD)
+Author: John Gibbons <jwgibbo@gmail.com>
+Date:   Fri Sep 2 17:49:43 2016 -0500
+
+    Bug fix: Add include of standard random library
+
+commit d807ffe0c05a81eda0524a3b92415836af0ed84a
+Author: John Gibbons <jwgibbo@gmail.com>
+Date:   Mon Feb 1 16:57:15 2016 -0600
+
+    Correct test score
+    
+    Was only totaling 80, now totals 100.
+
+commit 432680828fd617c01e439f73d369db7d58f66f07
+Author: John Gibbons <jwgibbo@gmail.com>
+Date:   Thu Jan 28 12:40:28 2016 -0600
+
+    Initial commit
+    
+    A linked list with test code, missing size, search, and addBack
+:
